@@ -1,0 +1,54 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder. The functions are annotated to make things as easy as possible for you.
+ * Use any colors you want! Go to - "http://htmlcolorcodes.com/color-picker/"
+ * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
+ */
+
+.MMM-JEOPARDY-Enhanced .xsmall.bright.light {
+  color: white;               /* Header color. Default is white. */
+           /* Align header text. (left, center, right) */
+}
+
+.MMM-JEOPARDY-Enhanced .xsmall.bright {
+  color: white;               /* Color the clue. Default is white. */
+             /* Align the clue. (left, center, right) */
+}
+
+.MMM-JEOPARDY-Enhanced .question {
+  color: yellow;               /* Color the answer. Default is white. */
+             /* Align the answer. (left, center, right) */
+}
+.MMM-JEOPARDY-Enhanced .vtop {
+   vertical-align: top;
+}
+
+.MMM-JEOPARDY-Enhanced .hleft {
+   text-align: left; 
+}
+
+.MMM-JEOPARDY-Enhanced .hcen {
+   text-align: center; 
+}
+.MMM-JEOPARDY-Enhanced .colorClue {
+   text-align: center; 
+   vertical-align: middle;
+   color: white;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;   
+   padding: 10px;
+   background-color: #060CE9;
+   text-shadow: 1px 1px #000000;
+   border-radius: 10px;
+   height: 125px;  
+	width: 350px;
+   
+}
+/*.MMM-JEOPARDY-Enhanced .img {
+	width: 250px;
+	margin-bottom: -20px;
+} */
+
+/* Uncomment below if you don't like Alex Trebec and want to remove the picture */
+
+.MMM-JEOPARDY-Enhanced .img {
+  display: none;  
+} 
