@@ -15,14 +15,13 @@ Fast pace. Challenging. Educational. Fun!
 
 * Before answer and after answer appears
 
-![](pix/1.JPG), ![](pix/6.JPG)
+![](pix/clue.jpg), ![](pix/response.jpg)
 
 * Annotated .css file included for aligning and coloring text and header.
-* Don't want the picture? Hate Alex Trebec? css file will easily remove it.
 
 ## Installation
 
-* `git clone https://github.com/mykle1/MMM-JEOPARDY` into the `~/MagicMirror/modules` directory.
+* `git clone https://github.com/fering3/MMM-JEOPARDY-enhanced` into the `~/MagicMirror/modules` directory.
 
 * No API needed!
 
